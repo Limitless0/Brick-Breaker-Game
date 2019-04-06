@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/Abanoub Iskander/Documents/Brick Breaker Game/Build/Brick Breaker Game.exe
+C:/Users/Abanoub Iskander/Documents/Brick Breaker Game/Builds/Windows/Brick Breaker Game.exe
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
